@@ -5,6 +5,7 @@ MindfulSocial, Instagram gibi platformlarda "sonsuz kaydırma" (doomscrolling) v
 
 ## 🚀 Proje Bağlantıları
 - **Demo Videosu (Loom/YouTube):** [LİNK BURAYA]
+- **Lovable Linki:** [https://mindfulsocial.lovable.app]
 
 ## 💡 Sorun Nedir?
 Günümüzde sosyal medya algoritmaları, bizi görseller ve merak uyandıran başlıklarla platformda tutmak üzere tasarlanmıştır. Bu durum zaman kaybına, odaklanma sorunlarına ve bilgi kirliliğine yol açar.
