@@ -2,7 +2,7 @@
 Sosyal Medya Kontrolü Sizin Elinizde
 
 MindfulSocial, Instagram gibi platformlarda "sonsuz kaydırma" (doomscrolling) ve "tıklama tuzağı" (clickbait) sorunlarını çözmek için geliştirilmiş bir Chrome eklentisidir.
-
+features dosyası -> antigr_bgk
 ## 🚀 Proje Bağlantıları
 - **Demo Videosu (Loom/YouTube):** [(https://youtu.be/KauVhur_giU)]
 - **Lovable Linki:** [https://mindfulsocial.lovable.app]
